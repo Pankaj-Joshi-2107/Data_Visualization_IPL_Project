@@ -1,2 +1,3 @@
 # Data_Visualization_IPL_Project
 Capstone project visualizing IPL data using Python libraries like NumPy, Pandas, Matplotlib, and Seaborn. Includes data analysis and various charts to uncover insights from IPL matches and player stats.
+This project analyzes and visualizes IPL cricket data using Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn. It involves cleaning and processing IPL datasets, followed by creating various visualizations like bar charts, heatmaps, and scatter plots to reveal key insights about player performances, team statistics, and match outcomes. The project demonstrates practical skills in data manipulation and effective visualization techniques to tell meaningful stories with IPL data.
